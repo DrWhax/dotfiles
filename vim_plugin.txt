@@ -1,0 +1,6 @@
+git clone https://github.com/vim-airline/vim-airline ~/.vim/pack/dist/start/vim-airline
+git clone https://github.com/neomake/neomake.git ~/.vim/pack/dist/start/neomake
+git clone https://github.com/ycm-core/YouCompleteMe.git ~/vim/pack/dist/start/ycm
+git clone https://github.com/tpope/vim-surround.git
+git clone https://github.com/junegunn/goyo.vim.git
+git clone https://github.com/vim-airline/vim-airline-themes
