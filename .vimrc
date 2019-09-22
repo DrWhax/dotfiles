@@ -22,3 +22,5 @@ let g:ycm_extra_conf_globlist = ['~/dev/*','!~/*']
 
 au filetype go inoremap <buffer> . .<C-x><C-o>
 let g:Powerline_symbols='unicode'
+
+let g:rustfmt_autosave = 1
