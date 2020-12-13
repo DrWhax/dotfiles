@@ -33,5 +33,6 @@ My dotfiles for:
 # Mac specific:
 
 * iTerm2 profile needs to be manually loaded
+* NeoVim's Jedi plugin can work but this advice should be followed: https://blog.cuffaro.com/blog/2018/04/16/pyenv-neovim 
 
 Requirements: GNU/Stow
