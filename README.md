@@ -3,7 +3,7 @@ dotfiles
 
 My dotfiles for:
 
-* Debian Buster or higher,
+* Debian Buster or higher
 * Manjaro
 * MacOS Catalina
 
