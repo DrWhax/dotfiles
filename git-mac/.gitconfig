@@ -1,0 +1,5 @@
+[user]
+	name = Jurre van Bergen
+	email = drwhax@riseup.net
+[core]
+    editor = /usr/local/bin/nvim
