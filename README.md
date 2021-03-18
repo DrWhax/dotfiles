@@ -24,8 +24,6 @@ My dotfiles for:
 
 ## For Linux
     
-    ## For Linux
-
     $ sudo apt install pylint pylint3 node yarn npm
 
     $ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
